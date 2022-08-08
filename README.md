@@ -1,2 +1,2 @@
-#Project Live Link [Here](https://amazonclone.pages.dev/).
+Project Live Link [Here](https://amazonclone.pages.dev/).
 
